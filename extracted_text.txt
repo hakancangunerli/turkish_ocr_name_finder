@@ -1,0 +1,586 @@
+4 | T D f\ ] ! HOME PROJECTS SOFTWARE GRANTS
+
+PUBLICATIONS A£.LOGIN
+
+/ People
+
+Current Members
+
+UMIT V. CATALYUREK Professor
+
+is currently a
+
+Professor and the Associate Chair of
+the School of Computational Science
+and Engineering in the College of
+Computing at the Georgia Institute of
+Technology. He received his Ph.D., M.S.
+and B.S. in Computer Engineering and
+Information Science from Bilkent
+University, Turkey, in 2000, 1994 and
+1992, respectively. Dr. Catalyiirek is a
+Fellow of IEEE and SIAM. He serve as
+
+JAMES FOX
+
+PhD. Student
+
+AUG 2019 -
+
+is a Ph.D. student in the
+College of Computing at Georgia Tech.
+He received his undergraduate degree
+in Computer Science from UC Berkeley
+in 2016. His research interests include
+deep learning and parallel computing
+for sparse problems.
+
+Past Members
+
+XIAOJING AN
+
+PhD. Student
+
+AUG 2019 - DEC 2022
+
+(@/]\B) received her
+Ph.D. in 2022 in Computational
+Science and Engineering at the
+Georgia Institute of Technology,
+advised by Dr. Catalyiirek. She received
+her M.S. from The University of the
+Chinese Academy of Sciences in 2017
+and her B.S. from Zhengzhou
+University in 2014. She is interested in
+accelerating graph computation on
+heterogeneous and parallel systems.
+
+M. MUCAHID BENLIOGLU
+
+AUG 2019 - DEC 2020 PhD. Student
+
+was a PhD
+student in the Computational Science
+and Engineering department at
+Georgia Tech. He received his B.S. in
+Computer Science & Engineering from
+Sabanci University in 2018.
+
+KAMER KAYA
+
+Asst. Professor
+
+SEP 2011 - MAY 2014
+
+is an
+
+, and an adjunct Assistant
+Professor in the Department of
+Biomedical Informatics at The Ohio
+State University. He received his PhD
+and Master in Computer Science, from
+Bilkent University, Turkey.
+
+ANAS ABU-DOLEH PhD. Student
+SEP 2012 - AUG 2016
+
+Anas Abu-Doleh received his PhD
+from the Department of the Electrical
+and Computer Engineering
+Department at The Ohio State
+University. His research interests
+include bioinformatics and high
+performance computing. He received
+his B.S. in Computer Engineering from
+Yarmouk University, Jordan in 2004
+and M.S. in Computer Engineering
+from Jordan University of Science and
+Technology, Jordan in 2009.
+
+IZZET SENTURK Post Doc.
+
+JAN 2014 - MAY 2015
+
+Izzet Senturk was a post doctoral
+research in Dr. Catalyurek's lab at the
+Ohio State University. He received his
+PhD from the Department of
+Computer Science in Southern Illinois
+University. He received BS and MEng
+in Computer Science from Ege
+University, Turkey in 2006 and Cornell
+University in 2008, respectively. His
+research interests are bioinformatics
+and high performance computing.
+
+ZHENG ZHOU
+
+Visiting Student
+
+SEP 2010 - AUG 2012
+
+Zheng Zhou is a visiting student in
+the Department of Biomedical
+Informatics at The Ohio State
+University, with Dr. Catalyurek as his
+advisor. He received his B.S and M.S
+in Computer Science from Wuhan
+University. Now, he is also a PhD
+student in Computer Science at
+Wuhan University. His research
+intersets are parallel algorithms, high
+performance computing and
+computer architecture.
+
+PhD. Student
+
+DORUK BOZDAG
+SEP 2002 - SEP 2010
+
+Doruk Bozdag has been a post-
+doctoral researcher in the
+Department of Biomedical
+Informatics at The Ohio State
+University. His research interests
+include parallel graph algorithms,
+scheduling algorithms for
+multiprocessor systems, data mining
+and bioinformatics. He received his
+Ph.D. in Electrical and Computer
+Engineering from The Ohio State
+University in 2008 and B.S. in
+Electrical and Electronic Engineering
+and B.S. in Physics from Bogazici
+University, Turkey, in 2002.
+
+Other members
+
+YUSUF OZKAYA
+
+PhD. Student
+
+JAN 2017 -
+
+Yusuf Ozkaya is a PhD student in the
+School of Computer Science. He
+received his B.S. in Bilkent University,
+in 2015.
+
+KASIMIR GABERT
+
+JUL 2019 - MAY 2022
+
+PhD. Student
+
+received his Ph.D. from
+the College of Computing at the
+Georgia Institute of Technology in
+2022, advised by Dr. Catalytirek. He
+received his M.S. from Georgia Tech in
+2013 and his B.S. from New Mexico
+Tech in 2011. His research interests
+include high-performance large scale
+graph analysis.
+
+Vis. Professor
+
+ANNE BENOIT
+AUG 2018 - MAY 2019
+
+is an associate professor
+in the Computer Science Laboratory
+LIP at ENS Lyon, France. Her research
+interests include algorithm design and
+scheduling techniques for parallel and
+distributed platforms, and also the
+performance evaluation of parallel
+systems and applications, with a focus
+on energy awareness and resilience.
+
+JONATHAN KHO
+
+AUG 2015 - DEC 2017
+
+MSc. Student
+
+Jonathan Kho received his MS
+degree in Computational Science and
+Engineering at Georgia Institute of
+Technology. He received his B.S. in
+Electrical and Computer Engineering
+from the University of Rochester in
+2014.
+
+XUSHENG WANG
+
+AUG 2015 - AUG 2016
+
+MSc. Student
+
+Xusheng Wang was a PhD Student in
+the Department of Electrical and
+Computer Engineering at The Ohio
+State University. He received his B.S.
+degree in School of Electrical and
+Information Engineering from Xi'an
+Jiao Tong University, China in 2015.
+
+AYAT HATEM
+
+PhD. Student
+
+SEP 2009 - MAY 2014
+
+Ayat Hatem completed her PhD at
+the Department of Electrical and
+Computer Engineering, at the Ohio
+State University in 2014. She received
+her M.S. in Software Engineering from
+Nile University, Egypt, in 2009 and
+B.S. in Computer Engineering from
+Cairo University, Egypt, 2007. Her
+research interests include
+computational biology and artifical
+intelligence.
+
+KEMAL EREN
+
+MSc. Student
+
+SEP 2011 - MAR 2012
+
+Kemal Eren received his Master
+degree from the Department of
+Computer Science and Engineering,
+the Ohio State University in 2012. His
+research interests are machine
+learning, data mining, bioinformatics,
+and scientific computing. He received
+his B.S. in biology and minors in
+computer science and mathematics
+from the University of Michigan in
+2009.
+
+PhD. Student
+
+OLCAY SERTEL
+
+SEP 2006 - JUN 2010
+
+Olcay Sertel obtained his PhD at the
+Department of Electrical and
+Computer Engineering, the Ohio State
+University in 2010. He was working as
+a Research Associate at the
+Department of Biomedical
+Informatics under the supervision of
+Prof. Umit Catalyurek and Prof. Metin
+Gurcan. He was working jointly under
+
+on
+histological image analysis and under
+HPC Lab. on computational issues in
+processing very large histology
+imagery. He received his BSc. and
+MSc. degrees from Yildiz Technical
+University, and Yeditepe University,
+Istanbul, Turkey in 2004 and 2006,
+respectively, both in Computer
+Engineering.
+
+= Ashwin Shiv Kumar, Sep 2008 - Jun 2010, CSE MS
+
+Arun Cecil, 2009, ECE MS
+
+X
+
+Nothing to see here
+
+- yet
+
+© Copyright 201
+
+Lingchen Xiong, Sep 2011 - Dec 2012, ECE MS
+Guangjun Xu, Jan 2014 - May 2015, ECE MS
+
+Arun C Sundaram, Sep 2009 - Dec 2009
+
+Lakshmi Prabha Kumarasamy, Sep 2009 - Dec 2009
+
+RECENT NEWS
+
+M. FATIH BALIN
+
+PhD. Student
+
+AUG 2019 -
+
+is a PhD
+Student in the Computational Science
+and Engineering department at
+Georgia Tech. He received his B.S. in
+Computer Engineering and
+Mathematics from Bogazici University
+in 2019.
+
+ABDURRAHMAN YASAR
+
+JAN 2017 - AUG 2021 PhD. Student
+
+was a Ph.D.
+student in the College of Computing
+at Georgia Institute of Technology. He
+received his MS in Computer
+Engineering from Bilkent University in
+2015. His research interests include,
+scalable graph analytics, graph
+management and graph processing
+middlewares.
+
+BORA UCAR Vis. Research Scientist II
+AUG 2018 - MAY 2019
+
+is a CNRS researcher (CRCN)
+working at LIP, ENS-LYON, in ROMA
+team. Previously, he was a post-
+doctoral researcher at the Parallel
+Algorithms Project, CERFACS,
+Toulouse, France, and at the
+Department of Mathematics and
+Computer Science, Emory University,
+Atlanta, GA, USA. He received BSc
+(1997), MSc (1999), and PhD degrees
+(2005) from the Department of
+Computer Engineering, Bilkent
+University, Ankara, Turkey.
+
+AHMET E. SARIYUCE hb. student
+SEP 2010 - MAY 2015
+
+Ahmet Erdem Sariyuce received his
+PhD from the Department of
+Computer Science and Engineering at
+The Ohio State University in 2015. He
+received his B.S. in Computer
+Engineering in Middle East Technical
+University, Turkey, 2010. His research
+interests include graph mining,
+streaming graph algorithms and
+combinatorial scientific computing.
+
+MUGE KURAL
+
+Summer Intern
+
+JUN 2015 - AUG 2015
+
+Muge Kural is an undergraduate
+student at the Faculty of Engineering
+at Koc University, Turkey. She was
+with the HPC Lab June-August 2015.
+
+ERIK SAULE Post Doc.
+
+JAN 2009 - AUG 2013
+
+Erik Saule was a post-doctoral
+researcher in the Department of
+Biomedical Informatics at The Ohio
+State University from 2009 to 2013.
+His research interests include multi
+objective optimization, approximation
+algorithm, scheduling and parallel
+computing. He received his PhD and
+Master in Computer Science,
+respectively in 2008 and 2005, from
+Institut National Polytechnique de
+Grenoble, France and his License in
+Computer Science in 2003 from
+University of Versailles, France. He is
+currently faculty at University North
+Carolina at Charlotte.
+
+TIM HARTLEY
+
+PhD. Student
+
+SEP 2004 - JUNE 2011
+
+Tim Hartley received his PhD from
+the Department of Electrical and
+Computer Engineering, the Ohio State
+University in 2011, with Dr. Catalyurek
+as his advisor. He received his B.S. in
+ECE from New Mexico State
+University, and his M.S. in ECE from
+The Ohio State University. His
+research interests include
+component-based programming
+frameworks and disruptive
+architectures such as GPUs and the
+Cell.
+
+KAAN SANCAK
+
+PhD. Student
+
+AUG 2019 -
+
+is a Ph.D. student in the
+College of Computing at Georgia Tech.
+He received his B.S. in Computer
+Engineering from Bilkent University in
+2019.
+
+BEN COBB
+
+PhD. Student
+
+AUG 2019 -
+
+is currently a Computational
+Science and Engineering PhD student
+at the Georgia Institute of Technology.
+He received a B.S. in Computer
+Science and a B.S. in Mathematical
+Business from Wake Forest University
+in 2019. His research interests include
+portable tensor kernels and
+decompositions.
+
+JULIEN HERRMANN Post Doc.
+JAN 2016-AUG 2018
+
+Julien Herrmann received his PhD
+from the Ecole Normale Superieure de
+Lyon in France. He received is Master
+Degree in Theoritical Computer
+Science in 2012 from the same
+University. His research interests
+include high performance computing,
+multi-criteria scheduling and
+combinatorial scientific computing.
+
+MEHMET DEVECI
+
+SEP 2010 - MAY 2015
+
+PhD. Student
+
+Mehmet Deveci received his PhD
+from the Department of Computer
+Science & Engineering at The Ohio
+State University in 2015. His research
+interests are bioinformatics and high
+performance computing. He received
+his B.S. in Computer Engineering from
+Middle East Technical University,
+Turkey in 2010.
+
+MUSTAFA K. TAS — Summer Intern
+JUN 2015 - AUG 2015
+
+Mustafa Kemal Tas is an
+undergraduate student at the Faculty
+of Engineering and Natural Science at
+Sabanci University, Turkey.
+
+ONUR KUCUKTUNC Php. student
+SEP 2011 - MAY 2013
+
+Onur Kucuktunc received his PhD
+from the Computer Science and
+Engineering Department at The Ohio
+State University in 2013, with Dr.
+Catalyurek as his advisor. He received
+his B.S. and M.S. degrees in Computer
+Engineering from Bilkent University,
+Turkey in 2007 and 2009, respectively.
+During his masters, he worked on
+content-based video copy detection
+and visual similarity-based tag
+suggestion. Currently, his research
+interests include similarity and
+diversity search, sentiment analysis,
+opinion retrieval, and biclustering.
+
+ERDENIZ O. BAS
+
+MSc. Student
+
+SEP 2009 - JUN 2011
+
+Erdeniz Ozgun Bas received his
+Master degree from the Department
+of Computer Science and Engineering
+at The Ohio State University in 2011.
+His research interests include artificial
+intelligence, neural networks and high
+performance computing. He received
+his B.S. in Computer Engineering in
+Ege University, Turkey.
+
+> Our work "Layer-Neighbor Sampling --- Defusing Neighborhood Explosion in GNNs" was accepted to
+
+NeurIPS 2023.
+
+» Xiaojing An successfully defended her PhD Dissertation titled "Data Tiling for Sparse Computation".
+
+> Our work "Efficient Hierarchical State Vector Simulation of Quantum Circuits via Acyclic Graph
+
+Partitioning" has received the Best Paper Award at the IEEE Cluster 2022 conference.
+
+» Kasimir Gabert successfully defended his PhD Dissertation titled "Finding Dense Regions of Rapidly
+
+Changing Graphs".
+
+» Xiaojing An successfully defended her proposal titled "Data Tiling for Sparse Computation".
+
+» M. Yusuf Ozkaya successfully defended his proposal titled "Acyclic Partitioning for High-Performance
+
+Computing and Data Mining".
+
+> Our work "Column-Segmented Sparse Matrix-Matrix Multiplication" was accepted to HiPC21.
+
+» Abdurrahman Yasar successfully defended his PhD Dissertation titled "Towards Performance Portable
+
+Graph Algorithms".
+
+> Our work "EIGA: Elastic and Scalable Dynamic Graph Analysis" was accepted to SC21.
+
+» James Fox successfully defended his proposal titled "Learning Rortationally Robust and Scalable
+Representations of 3D Point Clouds".
+
+» Kasimir Gabert successfully defended his proposal titled "Finding Dense Regions of Rapidly Changing
+
+Graphs".
+
+» Abdurrahman Yasar successfully defended his proposal titled "Towards Performance Portable Graph
+
+Algorithms".
+
+> Prof. Catalytrek is honored by the Technical Committee on Parallel Processing (TCPP) with the "2020
+IEEE TCPP Outstanding Service and Contributions Award".
+
+» Prof. Catalyurek has been named an SIAM Fellow with the citation "for contributions to high-
+
+performance and parallel algorithms and to combinatorial scientific computing"
+
+> TDAlab was recently awarded an NSF SPX award. This award is a colloboration with P. Sadayappan, A.S.
+Rajam, A. Kalyanaraman and S. Krishnamoorthy
+
+> TDAlab is excited to move to CODA with the School of CSE. Come and visit us in our new home on the
+13th floor CODA, 756 West Peachtree Street NW.
+
+> Our work "Fast Triangle Counting Using Cilk" is selected as one of MIT/Amazon/IEEE HPEC Graph
+
+Challenge 2018 Champions
+
+> Prof. Catalyurek re-elected as the Chair of the Technical Committee on Parallel Processing
+
+> Prof. Catalyurek has been named an IEEE Fellow with the citation "for contributions to combinatorial
+scientific computing and parallel computing".
+
+> Our paper "Finding the Hierarchy of Dense Subgraphs using Nucleus Decompositions" was one of the
+Best Paper nominees at WWW'2015
+
